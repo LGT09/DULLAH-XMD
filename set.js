@@ -41,6 +41,7 @@ module.exports = {
     WELCOME_MESSAGE : process.env.WELCOME_MESSAGE || 'yes',
     GOODBYE_MESSAGE : process.env.GOODBYE_MESSAGE || 'yes',
     ANTIBAD: process.env.ANTIBAD || 'no',
+    GROUP_ANTILINK: process.env.GROUP_ANTILINK || 'yes',
 
     RMBG_KEY: "MLt7fM4Sqv63U9FAt6FdPKRL",
 

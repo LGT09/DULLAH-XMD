@@ -171,6 +171,21 @@
       "description": "Enter yes to activate global antibad filter, or no to disable it",
       "value": "yes",
       "required": false
+    },
+    "GROUP_ANTILINK": {
+      "description": "Enable or disable anti-link (yes/no)",
+      "value": "yes",
+      "required": true
+    },
+    "WELCOME_MESSAGE": {
+      "description": "Enable or disable welcome message (yes/no)",
+      "value": "yes",
+      "required": false
+    },
+    "GOODBYE_MESSAGE": {
+      "description": "Enable or disable goodbye message (yes/no)",
+      "value": "yes",
+      "required": false
     }
   },
   "formation": {
